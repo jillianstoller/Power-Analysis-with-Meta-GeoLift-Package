@@ -1,0 +1,201 @@
+Day,Test_Cell,Conversions
+2022-04-04,Control Group,19.02
+2022-04-04,Group 1,25.31
+2022-04-04,Group 2,40.82
+2022-04-04,Group 3,37.93
+2022-04-04,Removed from Analysis,37.09
+2022-04-11,Control Group,37.01
+2022-04-11,Group 1,45.36
+2022-04-11,Group 2,51.25
+2022-04-11,Group 3,63.51
+2022-04-11,Removed from Analysis,49.81
+2022-04-18,Control Group,30.01
+2022-04-18,Group 1,60.16
+2022-04-18,Group 2,48.46
+2022-04-18,Group 3,46.43
+2022-04-18,Removed from Analysis,69.66
+2022-04-25,Control Group,42.17
+2022-04-25,Group 1,68.9
+2022-04-25,Group 2,51.93
+2022-04-25,Group 3,56.28
+2022-04-25,Removed from Analysis,71.75
+2022-05-02,Control Group,71.96
+2022-05-02,Group 1,82.2
+2022-05-02,Group 2,79.59
+2022-05-02,Group 3,97.92999999999999
+2022-05-02,Removed from Analysis,80.91
+2022-05-09,Control Group,41.89
+2022-05-09,Group 1,58.339999999999996
+2022-05-09,Group 2,55.93
+2022-05-09,Group 3,59.9
+2022-05-09,Removed from Analysis,84.09
+2022-05-16,Control Group,30.919999999999998
+2022-05-16,Group 1,35.92
+2022-05-16,Group 2,39.95
+2022-05-16,Group 3,49.86
+2022-05-16,Removed from Analysis,46.92
+2022-05-23,Control Group,38.9
+2022-05-23,Group 1,63.93
+2022-05-23,Group 2,38.9
+2022-05-23,Group 3,47.34
+2022-05-23,Removed from Analysis,46.55
+2022-05-30,Control Group,21.93
+2022-05-30,Group 1,34.41
+2022-05-30,Group 2,35.21
+2022-05-30,Group 3,46.769999999999996
+2022-05-30,Removed from Analysis,60.83
+2022-06-06,Control Group,48.91
+2022-06-06,Group 1,54.379999999999995
+2022-06-06,Group 2,60.35
+2022-06-06,Group 3,68.09
+2022-06-06,Removed from Analysis,86.0
+2022-06-13,Control Group,66.95
+2022-06-13,Group 1,87.27
+2022-06-13,Group 2,85.41
+2022-06-13,Group 3,67.28
+2022-06-13,Removed from Analysis,96.35
+2022-06-20,Control Group,50.89
+2022-06-20,Group 1,78.19
+2022-06-20,Group 2,70.2
+2022-06-20,Group 3,78.12
+2022-06-20,Removed from Analysis,67.39
+2022-06-27,Control Group,46.28
+2022-06-27,Group 1,47.980000000000004
+2022-06-27,Group 2,53.07
+2022-06-27,Group 3,48.53
+2022-06-27,Removed from Analysis,69.24000000000001
+2022-07-04,Control Group,43.14
+2022-07-04,Group 1,43.17
+2022-07-04,Group 2,59.49
+2022-07-04,Group 3,45.08
+2022-07-04,Removed from Analysis,55.29
+2022-07-11,Control Group,37.92
+2022-07-11,Group 1,68.02
+2022-07-11,Group 2,49.519999999999996
+2022-07-11,Group 3,63.06
+2022-07-11,Removed from Analysis,77.43
+2022-07-18,Control Group,61.09
+2022-07-18,Group 1,86.1
+2022-07-18,Group 2,78.14999999999999
+2022-07-18,Group 3,71.08
+2022-07-18,Removed from Analysis,76.19
+2022-07-25,Control Group,33.92
+2022-07-25,Group 1,51.07
+2022-07-25,Group 2,62.99
+2022-07-25,Group 3,56.91
+2022-07-25,Removed from Analysis,57.980000000000004
+2022-08-01,Control Group,23.62
+2022-08-01,Group 1,35.68
+2022-08-01,Group 2,35.95
+2022-08-01,Group 3,32.91
+2022-08-01,Removed from Analysis,42.56
+2022-08-08,Control Group,46.0
+2022-08-08,Group 1,53.04
+2022-08-08,Group 2,48.78
+2022-08-08,Group 3,51.26
+2022-08-08,Removed from Analysis,55.23
+2022-08-15,Control Group,48.230000000000004
+2022-08-15,Group 1,53.739999999999995
+2022-08-15,Group 2,57.0
+2022-08-15,Group 3,60.95
+2022-08-15,Removed from Analysis,57.05
+2022-08-22,Control Group,41.19
+2022-08-22,Group 1,52.12
+2022-08-22,Group 2,67.94
+2022-08-22,Group 3,40.08
+2022-08-22,Removed from Analysis,53.37
+2022-08-29,Control Group,39.97
+2022-08-29,Group 1,52.14
+2022-08-29,Group 2,56.99
+2022-08-29,Group 3,58.0
+2022-08-29,Removed from Analysis,66.96
+2022-09-05,Control Group,30.96
+2022-09-05,Group 1,43.12
+2022-09-05,Group 2,61.0
+2022-09-05,Group 3,29.98
+2022-09-05,Removed from Analysis,64.23
+2022-09-12,Control Group,28.009999999999998
+2022-09-12,Group 1,51.94
+2022-09-12,Group 2,51.230000000000004
+2022-09-12,Group 3,49.95
+2022-09-12,Removed from Analysis,64.11
+2022-09-19,Control Group,25.009999999999998
+2022-09-19,Group 1,45.0
+2022-09-19,Group 2,45.98
+2022-09-19,Group 3,59.01
+2022-09-19,Removed from Analysis,46.17
+2022-09-26,Control Group,33.97
+2022-09-26,Group 1,38.99
+2022-09-26,Group 2,62.04
+2022-09-26,Group 3,46.98
+2022-09-26,Removed from Analysis,44.21
+2022-10-03,Control Group,26.96
+2022-10-03,Group 1,42.96
+2022-10-03,Group 2,56.89
+2022-10-03,Group 3,54.97
+2022-10-03,Removed from Analysis,49.99
+2022-10-10,Control Group,38.0
+2022-10-10,Group 1,51.96
+2022-10-10,Group 2,46.26
+2022-10-10,Group 3,52.17
+2022-10-10,Removed from Analysis,54.989999999999995
+2022-10-17,Control Group,17.97
+2022-10-17,Group 1,34.94
+2022-10-17,Group 2,19.97
+2022-10-17,Group 3,18.29
+2022-10-17,Removed from Analysis,29.009999999999998
+2022-10-24,Control Group,12.02
+2022-10-24,Group 1,15.0
+2022-10-24,Group 2,18.0
+2022-10-24,Group 3,8.97
+2022-10-24,Removed from Analysis,21.0
+2022-10-31,Control Group,8.0
+2022-10-31,Group 1,13.0
+2022-10-31,Group 2,9.02
+2022-10-31,Group 3,14.0
+2022-10-31,Removed from Analysis,15.0
+2022-11-07,Control Group,15.0
+2022-11-07,Group 1,16.0
+2022-11-07,Group 2,18.94
+2022-11-07,Group 3,22.0
+2022-11-07,Removed from Analysis,17.02
+2022-11-14,Control Group,32.0
+2022-11-14,Group 1,29.95
+2022-11-14,Group 2,35.96
+2022-11-14,Group 3,30.95
+2022-11-14,Removed from Analysis,40.91
+2022-11-21,Control Group,24.009999999999998
+2022-11-21,Group 1,29.02
+2022-11-21,Group 2,29.07
+2022-11-21,Group 3,27.009999999999998
+2022-11-21,Removed from Analysis,33.93
+2022-11-28,Control Group,9.0
+2022-11-28,Group 1,13.0
+2022-11-28,Group 2,14.0
+2022-11-28,Group 3,14.0
+2022-11-28,Removed from Analysis,12.01
+2022-12-05,Control Group,13.0
+2022-12-05,Group 1,19.0
+2022-12-05,Group 2,17.009999999999998
+2022-12-05,Group 3,22.939999999999998
+2022-12-05,Removed from Analysis,17.009999999999998
+2022-12-12,Control Group,17.009999999999998
+2022-12-12,Group 1,28.19
+2022-12-12,Group 2,31.33
+2022-12-12,Group 3,27.88
+2022-12-12,Removed from Analysis,26.92
+2022-12-19,Control Group,28.009999999999998
+2022-12-19,Group 1,36.94
+2022-12-19,Group 2,36.0
+2022-12-19,Group 3,28.03
+2022-12-19,Removed from Analysis,36.019999999999996
+2022-12-26,Control Group,13.0
+2022-12-26,Group 1,25.01
+2022-12-26,Group 2,24.23
+2022-12-26,Group 3,30.95
+2022-12-26,Removed from Analysis,29.009999999999998
+2023-01-02,Control Group,17.0
+2023-01-02,Group 1,19.98
+2023-01-02,Group 2,25.0
+2023-01-02,Group 3,23.98
+2023-01-02,Removed from Analysis,27.01
